@@ -8,5 +8,6 @@ int b = s.nextInt();
 int c = s.nextInt();
 int sum = a+b+c;
 System.out.println(+sum);
+  System.out.println("Hi");
 }
 }
